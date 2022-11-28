@@ -1,0 +1,9 @@
+.header {
+  background-image: linear-gradient(#f3badb, #f6d19c);
+  justify-content: center;
+  overflow-x: hidden;
+  position: relative;
+  display: flex;
+  height: 80vh;
+  width: 100%;
+}
