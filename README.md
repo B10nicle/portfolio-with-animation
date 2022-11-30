@@ -1,8 +1,8 @@
 ## Portfolio with Animation
 
-Thank you Ania for this awesome course! 
+Thank you Ania Kubów for this awesome course! 
 
-Link to the course: https://www.youtube.com/watch?v=lPRwcWh14nY
+Link: https://www.youtube.com/watch?v=lPRwcWh14nY
 
 The project structure was refactored to BEM.
 
