@@ -2,7 +2,7 @@
 
 Thank you Ania for this awesome course! 
 
-Link to the project: https://www.youtube.com/watch?v=lPRwcWh14nY
+Link to the course: https://www.youtube.com/watch?v=lPRwcWh14nY
 
 The project structure was refactored to BEM.
 
